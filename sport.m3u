@@ -15,7 +15,7 @@ http://www.mo3ad.xyz:8080/Test24/Test31/6
 http://www.mo3ad.xyz:8080/Test24/Test31/7
 #EXTINF:-1, tvg-id="beINSportSD4.qa" tvg-name="beIN Sport SD 4" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport SD 4
 http://www.mo3ad.xyz:8080/Test24/Test31/8
-#EXTINF:-1, tvg-id="beINSportHD5.qa" tvg-name="beIN Sport HD 5" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport HD 5
+#EXTINF:-1, tvg-id="beINSportHD5.qa" tvg-name="beIN Sport HD 5" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="Sports", beIN Sport HD 5
 http://www.mo3ad.xyz:8080/Test24/Test31/9
 #EXTINF:-1, tvg-id="beINSportSD5.qa" tvg-name="beIN Sport SD 5" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport SD 5
 http://www.mo3ad.xyz:8080/Test24/Test31/10
