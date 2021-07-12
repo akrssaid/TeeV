@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beINSports1Premiumhd.qa" tvg-name="beIN Sports 1 Premium HD" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sports",beIN Sports 1 Premium HD
+#EXTINF:-1 tvg-id="beINSports1Premiumhd.qa" tvg-name="beIN Sports 1 Premium HD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 1 Premium HD
 http://www.mo3ad.xyz:8080/Test24/Test31/1
 #EXTINF:-1, tvg-id="beinsport1premiumsd.qa" tvg-name="beIN Sport 1 Premium SD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport 1 Premium SD
 http://www.mo3ad.xyz:8080/Test24/Test31/2
