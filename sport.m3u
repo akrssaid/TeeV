@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="beINSports1PremiumHD.qa" tvg-name="beIN Sports 1 Premium HD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sports 1 Premium HD
+#EXTINF:-1, tvg-id="beINSports1Premiumhd.qa" tvg-name="beIN Sports 1 Premium HD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sports 1 Premium HD
 http://www.mo3ad.xyz:8080/Test24/Test31/1
-#EXTINF:-1, tvg-id="beINSport1PremiumSD.qa" tvg-name="beIN Sport 1 Premium SD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport 1 Premium SD
+#EXTINF:-1, tvg-id="beinsport1premiumsd.qa" tvg-name="beIN Sport 1 Premium SD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport 1 Premium SD
 http://www.mo3ad.xyz:8080/Test24/Test31/2
-#EXTINF:-1, tvg-id="beINSport2PremiumHD.qa" tvg-name="beIN Sport 2 Premium HD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport 2 Premium HD
+#EXTINF:-1, tvg-id="beinsport2premiumhd.qa" tvg-name="beIN Sport 2 Premium HD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport 2 Premium HD
 http://www.mo3ad.xyz:8080/Test24/Test31/3
-#EXTINF:-1, tvg-id="beINSport2PremiumSD.qa" tvg-name="beIN Sport 2 Premium SD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport 2 Premium SD
+#EXTINF:-1, tvg-id="beinsport2premiumsd.qa" tvg-name="beIN Sport 2 Premium SD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport 2 Premium SD
 http://www.mo3ad.xyz:8080/Test24/Test31/4
-#EXTINF:-1, tvg-id="beINSports3PremiumHD.qa" tvg-name="beIN Sports 3 Premium HD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sports 3 Premium HD
+#EXTINF:-1, tvg-id="beinsports3premiumhd.qa" tvg-name="beIN Sports 3 Premium HD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sports 3 Premium HD
 http://www.mo3ad.xyz:8080/Test24/Test31/5
-#EXTINF:-1, tvg-id="beINSport3PremiumSD.qa" tvg-name="beIN Sport 3 Premium SD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport 3 Premium SD
+#EXTINF:-1, tvg-id="beinsport3premiumsd.qa" tvg-name="beIN Sport 3 Premium SD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport 3 Premium SD
 http://www.mo3ad.xyz:8080/Test24/Test31/6
-#EXTINF:-1, tvg-id="beINSports4HD.qa" tvg-name="beIN Sports 4 HD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sports 4 HD
+#EXTINF:-1, tvg-id="beinsports4hd.qa" tvg-name="beIN Sports 4 HD" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sports 4 HD
 http://www.mo3ad.xyz:8080/Test24/Test31/7
 #EXTINF:-1, tvg-id="beINSportSD4.qa" tvg-name="beIN Sport SD 4" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", beIN Sport SD 4
 http://www.mo3ad.xyz:8080/Test24/Test31/8
