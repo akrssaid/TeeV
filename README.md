@@ -59,7 +59,7 @@ Or select one of the playlists from the list below.
 		<tr><td align="left">Series</td><td align="right">55</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/series.m3u</code></td></tr>
 		<tr><td align="left">Science</td><td align="right">10</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/science.m3u</code></td></tr>
 		<tr><td align="left">Shop</td><td align="right">46</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/shop.m3u</code></td></tr>
-		<tr><td align="left">Sports</td><td align="right">222</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/sports.m3u</code></td></tr>
+		<tr><td align="left">Sports</td><td align="right">222</td><td align="left"><code>https://raw.githubusercontent.com/akrssaid/TeeV/main/sport.m3u</code></td></tr>
 		<tr><td align="left">Travel</td><td align="right">21</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/travel.m3u</code></td></tr>
 		<tr><td align="left">Weather</td><td align="right">10</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/weather.m3u</code></td></tr>
 		<tr><td align="left">Other</td><td align="right">6788</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/other.m3u</code></td></tr>
